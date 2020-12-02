@@ -13,21 +13,21 @@ function ProjectDisplay() {
       <ProjectPreview 
         image={escVelLogo}
         projectName='Escape Velocity'
-        specs='Mobile game, c. 2020'
+        specs='Mobile game | Feb. 2020'
         technologies='C#, Unity 3D, Unity API'
         moreInfo='blah blah blah'
       />
       <ProjectPreview
         image={acmUcla}
         projectName='Dev Team Intern'
-        specs='ACM @ UCLA, Nov. 2020 - present'
+        specs='ACM @ UCLA | Nov. 2020 - present'
         technologies='React, HTML/CSS, JavaScript'
         moreInfo='blah blah blah: the sequel'
       />
       <ProjectPreview
         image={dailyBruin}
         projectName='Software Engineering Intern'
-        specs='Daily Bruin, Oct. 2020 - present'
+        specs='Daily Bruin | Oct. 2020 - present'
         technologies='React, HTML/CSS, Javascript, Git'
         moreInfo='blah blah blah epilogue'
       />
@@ -35,7 +35,7 @@ function ProjectDisplay() {
         image={auxman}
         projectName='Auxman'
         specs='TBD'
-        technologies='TBD'
+        technologies='C++'
         moreInfo='blah resurrected'
       />
       </div>
