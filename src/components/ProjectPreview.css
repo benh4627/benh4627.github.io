@@ -1,0 +1,35 @@
+.project-preview {
+    font-family: 'Segoe UI', sans-serif;
+    max-width: 250px;
+    border: 0.5px solid black;
+    text-align: left;
+    border-radius: 0px 0px 10px 10px;
+    background-color: white;
+}
+
+.project-name {
+    padding: 2px;
+    font-size:20px;
+}
+
+.technologies {
+    padding: 0px 3px 3px 3px;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 14px;
+    text-align: left;
+}
+
+.project-preview > img {
+    width: 100%;
+}
+
+.basic-info {
+    width: 100%;
+}
+
+.read-more {
+    display: inline;
+    font-size:30px;
+    padding: 0px 15px;
+    float:right;
+}
