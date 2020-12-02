@@ -1,35 +1,52 @@
 .project-preview {
     font-family: 'Segoe UI', sans-serif;
     max-width: 250px;
-    border: 2px solid whitesmoke;
-    text-align: left;
-    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+    margin: 25px;
+    border-radius: 0px 0px 8px 8px;
     background-color: white;
 }
 
 .project-name {
     padding: 2px;
-    font-size:20px;
+    font-size:17px;
 }
 
-.technologies {
+.specs {
     padding: 0px 3px 3px 3px;
     font-family: 'Segoe UI', sans-serif;
-    font-size: 14px;
-    text-align: left;
-}
-
-.project-preview > img {
-    width: 100%;
+    font-size: 13px;
 }
 
 .basic-info {
     width: 100%;
+    transition: width 2s ease-in 4s;
 }
+
+
+.basic-info > img {
+    width: 100%;
+}
+
+/*
+.basic-info:hover {
+    width: 200px;
+}
+*/
 
 .read-more {
     display: inline;
     font-size:30px;
     padding: 0px 15px;
     float:right;
+}
+
+.more-info {
+    display: none;
+    text-align: left;
+    padding: 8px;
+}
+
+.basic-info:hover + .more-info {
+    display: block;
 }

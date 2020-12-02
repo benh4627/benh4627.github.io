@@ -2,7 +2,6 @@
     text-transform: uppercase;
     color:white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
-    
 }
 
 h1 {
@@ -13,12 +12,13 @@ h1 {
 }
 
 hr {
-    width:30%;
-    padding: 0;
+    width:25%;
     margin: auto;
 }
 
 h2 {
     font-family: Consolas;
+    font-weight: normal;
     text-decoration: none;
+    text-transform: lowercase;
 }
