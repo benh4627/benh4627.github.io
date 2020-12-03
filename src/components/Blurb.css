@@ -1,11 +1,11 @@
 .Blurb {
     text-transform: uppercase;
-    color:white;
+    color:black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 35px;
     letter-spacing:3px;
     padding: 10px;
     margin: 0;
@@ -21,4 +21,9 @@ h2 {
     font-weight: normal;
     text-decoration: none;
     text-transform: lowercase;
+}
+
+img {
+    width: 250px;
+    margin-left: auto;
 }

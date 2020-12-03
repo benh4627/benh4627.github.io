@@ -1,8 +1,9 @@
 .App {
   text-align: center;
-  background-color: #444;
-  display: flex;
+  background-color: rgb(240, 240, 240);
+  display:flex;
   flex-direction: column;
+  justify-content: flex-end;
 }
 
 .App-logo {
