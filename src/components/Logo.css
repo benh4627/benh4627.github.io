@@ -1,0 +1,7 @@
+.logo {
+    border: 5px solid black;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    align-items: center;
+}

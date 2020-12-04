@@ -1,9 +1,14 @@
 .App {
-  text-align: center;
-  background-color: rgb(240, 240, 240);
-  display:flex;
+  background-color:white;
+  /*display:flex;
   flex-direction: column;
   justify-content: flex-end;
+  display: grid;
+  grid-template-rows: 20% 30% 45% auto;
+  grid-template-columns: 25% 3% auto;*/
+  display: grid;
+  grid-template-rows: 30% auto;
+  grid-template-columns: 100%;
 }
 
 .App-logo {

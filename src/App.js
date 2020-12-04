@@ -7,12 +7,15 @@ import Border from './components/Border';
 import Socials from './components/Socials';
 
 
+//IDEA: Make escape velocity playable on site
+//yellow buttons on hover
+//hover on logo something happens
+
 function App() {
   return (
     <div className="App">
       <Navbar />
       <Blurb />
-      <ProjectDisplay />
     </div>
   );
 }

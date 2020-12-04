@@ -8,8 +8,11 @@ function Blurb() {
         <div className="Blurb">
             <h1><strong>Ben Hankin</strong></h1>
             <hr/>
-            <h2>Software Engineer</h2>
-            <img src={me}/>
+            {/*<<h2>Software Engineer</h2>*/}
+            <img className="photo" src={me}/>
+            <p className="about-me">
+                Hi there, I am a <strong>software engineer</strong> currently in <strong>Los Angeles, CA</strong>.
+            </p>
         </div>
     )
 }

@@ -1,13 +1,34 @@
 .Navbar {
-    margin: 0px 10px;
     padding: 10px;
     text-transform: uppercase;
-    grid-column-start: 2;
+    transition: all .7s ease-in;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: white;
+    font-size: 16px;
+    width: 100%;
+    box-shadow: 0px .2px 2px rgb(199, 199, 199);
+    
+}
+
+.title {
+    text-transform: uppercase;
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
+    font-size: 35px;
+    letter-spacing:3px;
+    text-align: center;
+}
+
+.logo {
+    width:55px;
 }
 
 ul {
     list-style-type: none;
     margin: 0;
+    margin-right: 15px;
     padding: 0;
     float:right;
 }
@@ -15,16 +36,37 @@ ul {
 li {
     float:left;
     display: inline;
-    background-color: #222;
+    font-size:15px;
 }
 
 li a {
     display:block;
-    color: white;
-    padding: 10px;
+    color: black;
+    padding: 7px 10px;
+    margin: 0px 4px;
     text-decoration: none;
+    background-color: none;
+    transition: background-color .25s;
+    border-radius: 13px;
 }
 
 li a:hover {
-    background-color: black;
+    background-color: rgb(251, 255, 20);
+}
+
+button {
+    float:right;
+    font-size:14px;
+    margin: 0px 15px;
+    text-transform: uppercase;
+    border: 2.5px solid black;
+    border-radius: 5px;
+    padding: 12px 20px;
+    background: none;
+    transition: background-color .1s;
+}
+
+button:hover {
+    background-color:rgb(253, 255, 243);
+    box-shadow: 0.5px 0.5px 4px grey;
 }

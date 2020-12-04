@@ -2,12 +2,17 @@
     text-transform: uppercase;
     color:black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
+    grid-row-start: 2;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    padding-top: 20px;
 }
 
 h1 {
     font-size: 35px;
     letter-spacing:3px;
-    padding: 10px;
+    padding: 10px 0px 25px 0px;
     margin: 0;
 }
 
@@ -23,7 +28,15 @@ h2 {
     text-transform: lowercase;
 }
 
-img {
-    width: 250px;
-    margin-left: auto;
+.photo {
+    width: 175px;
+    padding: 25px 0px;
+    margin: auto;
+}
+
+.about-me {
+    font-family: Consolas;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none;
 }

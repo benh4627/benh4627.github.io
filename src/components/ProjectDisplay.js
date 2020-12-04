@@ -16,6 +16,7 @@ function ProjectDisplay() {
         specs='Mobile game | Feb. 2020'
         technologies='C#, Unity 3D, Unity API'
         moreInfo='blah blah blah'
+        className='t1'
       />
       <ProjectPreview
         image={acmUcla}
@@ -23,6 +24,7 @@ function ProjectDisplay() {
         specs='ACM @ UCLA | Nov. 2020 - present'
         technologies='React, HTML/CSS, JavaScript'
         moreInfo='blah blah blah: the sequel'
+        className='t2'
       />
       <ProjectPreview
         image={dailyBruin}
@@ -30,14 +32,16 @@ function ProjectDisplay() {
         specs='Daily Bruin | Oct. 2020 - present'
         technologies='React, HTML/CSS, Javascript, Git'
         moreInfo='blah blah blah epilogue'
-      />
+        className='t3'
+      />{/*
       <ProjectPreview
         image={auxman}
         projectName='Auxman'
         specs='TBD'
         technologies='C++'
         moreInfo='blah resurrected'
-      />
+        className='t4'
+      />*/}
       </div>
     )
 }
