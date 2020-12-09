@@ -1,0 +1,10 @@
+.socials{
+    font-size: 13px;
+    z-index: 1;
+}
+
+.icon {
+    width: 30px;
+    padding: 10px;
+    margin: auto;
+}

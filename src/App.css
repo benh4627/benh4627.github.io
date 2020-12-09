@@ -8,7 +8,7 @@
   grid-template-columns: 25% 3% auto;*/
   display: grid;
   grid-template-rows: 100px auto;
-  grid-template-columns: 100%;
+  grid-template-columns: 10% 80% 10%;
 }
 
 .App-logo {

@@ -1,19 +1,21 @@
 import React from 'react';
 import './Blurb.css';
 
+import Socials from './Socials';
+
 import me from '../images/me.jpg';
 
 function Blurb() {
     return(
         <div className="Blurb" >
-            <h1 className="sticky"><strong>Ben Hankin</strong></h1>
-            <hr id="about"/>
+            <h1 className="sticky" id="about"><strong>Ben Hankin</strong></h1>
             {/*<<h2>Software Engineer</h2>*/}
             <img className="photo" src={me} />
             <p className="about-me">
                 Hi there, I am a <strong>software engineer</strong> currently in <strong>Los Angeles, CA</strong>.
             </p>
             <p className="about-me"> This webpage is under construction. </p>
+            <Socials />
             <hr />
             <p className="about-me"> <i>To do </i></p>
             <p className="about-me"> add social media icons/links </p>

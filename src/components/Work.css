@@ -1,0 +1,12 @@
+.work {
+    grid-column-start: 2;
+    grid-row-start: 5;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.old-work {
+    margin: auto;
+}
