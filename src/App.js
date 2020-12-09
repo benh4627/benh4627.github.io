@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import Blurb from './components/Blurb';
 import Border from './components/Border';
 import Socials from './components/Socials';
+import Contact from './components/Contact';
 
 
 //IDEA: Make escape velocity playable on site
@@ -14,8 +15,9 @@ import Socials from './components/Socials';
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <Blurb />
+    <Navbar />
+    <Blurb />
+      <Contact />
     </div>
   );
 }

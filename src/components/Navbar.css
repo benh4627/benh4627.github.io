@@ -5,10 +5,10 @@
     position: fixed;
     top: 0;
     left: 0;
-    background: white;
+    /*background: white;*/
     font-size: 16px;
     width: 100%;
-    opacity: 0.95;
+    z-index: 1;
 }
 
 .normal {
@@ -85,6 +85,7 @@ button:hover {
     display: flex;
     flex-direction: row;
 }
+
 .burg {
     padding: 10px;
     font-size: 18px;
@@ -112,5 +113,8 @@ button:hover {
     }
     .menu {
         display: none;
+    }
+    .menu-vert {
+        background: white;
     }
   }
