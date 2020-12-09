@@ -1,5 +1,5 @@
 .Navbar {
-    padding: 10px;
+    padding: 0px;
     text-transform: uppercase;
     transition: all .7s ease-in;
     position: fixed;
@@ -8,8 +8,16 @@
     background: white;
     font-size: 16px;
     width: 100%;
+    opacity: 0.95;
+}
+
+.normal {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
     box-shadow: 0px .2px 2px rgb(199, 199, 199);
-    
 }
 
 .title {
@@ -23,13 +31,14 @@
 
 .logo {
     width:55px;
+    padding: 10px 0px 5px 10px;
 }
 
 ul {
     list-style-type: none;
     margin: 0;
     margin-right: 15px;
-    padding: 0;
+    padding: 5px;
     float:right;
 }
 
@@ -51,7 +60,8 @@ li a {
 }
 
 li a:hover {
-    background-color: rgb(251, 255, 20);
+    background-color: whitesmoke;
+    border-radius: 10px;
 }
 
 button {
@@ -70,3 +80,37 @@ button:hover {
     background-color:rgb(253, 255, 243);
     box-shadow: 0.5px 0.5px 4px grey;
 }
+
+.menu {
+    display: flex;
+    flex-direction: row;
+}
+.burg {
+    padding: 10px;
+    font-size: 18px;
+    display: none;
+}
+
+@media screen and (min-width: 600px) {
+    .menu-vert {
+        display: none;
+    }
+}
+@media screen and (max-width: 600px) {
+    li {
+        float: none;
+        padding: 0px;
+        text-align: center;
+    }
+    ul {
+        width: 100%;
+        padding: 0px;
+        margin: 0;
+    }
+    .burg {
+        display: block;
+    }
+    .menu {
+        display: none;
+    }
+  }

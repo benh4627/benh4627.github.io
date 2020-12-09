@@ -7,6 +7,7 @@
     justify-items: center;
     text-align: center;
     padding-top: 20px;
+    width: 100%;
 }
 
 h1 {
@@ -39,4 +40,20 @@ h2 {
     font-weight: normal;
     text-decoration: none;
     text-transform: none;
+    animation-name: load-text;
+    animation-duration: 2s;
+}
+
+@keyframes load-text {
+    0% {color: white;}
+    10% {color: rgb(229, 229, 229);}
+    20% {color: rgb(203, 203, 203);}
+    30% {color: rgb(177, 177, 177);}
+    40% {color: rgb(151, 151, 151);}
+    50% {color: rgb(125, 125, 125);}
+    60% {color: rgb(99, 99, 99);}
+    70% {color: rgb(73, 73, 73);}
+    80% {color: rgb(47, 47, 47);}
+    90% {color: rgb(21, 21, 21);}
+    100% {color: black;}
 }

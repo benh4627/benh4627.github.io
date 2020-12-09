@@ -13,6 +13,15 @@ function Blurb() {
             <p className="about-me">
                 Hi there, I am a <strong>software engineer</strong> currently in <strong>Los Angeles, CA</strong>.
             </p>
+            <p className="about-me"> This webpage is under construction. </p>
+            <p className="about-me"> This webpage is under construction. </p>
+            <p className="about-me"> This webpage is under construction. </p>
+            <p className="about-me"> This webpage is under construction. </p>
+            <p className="about-me"> This webpage is under construction. </p>
+            <p className="about-me"> This webpage is under construction. </p>
+            <p className="about-me"> This webpage is under construction. </p>
+            <p className="about-me"> This webpage is under construction. </p>
+            <p className="about-me"> This webpage is under construction. </p>
         </div>
     )
 }
