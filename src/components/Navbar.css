@@ -45,13 +45,13 @@ ul {
 li {
     float:left;
     display: inline;
-    font-size:15px;
+    font-size:12px;
 }
 
 li a {
     display:block;
     color: black;
-    padding: 7px 10px;
+    padding: 7px 7px;
     margin: 0px 4px;
     text-decoration: none;
     background-color: none;
@@ -92,12 +92,12 @@ button:hover {
     display: none;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 1000px) {
     .menu-vert {
         display: none;
     }
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
     li {
         float: none;
         padding: 0px;
@@ -117,4 +117,4 @@ button:hover {
     .menu-vert {
         background: white;
     }
-  }
+}

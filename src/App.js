@@ -1,4 +1,5 @@
 import './App.css';
+import React, {useState} from 'react';
 
 import ProjectDisplay from './components/ProjectDisplay';
 import Navbar from './components/Navbar';
@@ -7,16 +8,11 @@ import Border from './components/Border';
 import Socials from './components/Socials';
 import Contact from './components/Contact';
 
-
-//IDEA: Make escape velocity playable on site
-//yellow buttons on hover
-//hover on logo something happens
-
 function App() {
   return (
     <div className="App">
-    <Navbar />
-    <Blurb />
+      <Navbar />
+      <Blurb />
       <Contact />
     </div>
   );
