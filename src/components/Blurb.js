@@ -8,11 +8,10 @@ import me from '../images/me.jpg';
 function Blurb() {
     return(
         <div className="Blurb" >
-            <h1 className="sticky" id="about"><strong>Ben Hankin</strong></h1>
             {/*<<h2>Software Engineer</h2>*/}
             <img className="photo" src={me} />
             <p className="about-me">
-                Hi there, I am a <strong>software engineer</strong> currently in <strong>Los Angeles, CA</strong>.
+                Hi there, I am a student studying <strong>Computer Science</strong> at the <strong>University of California, Los Angeles</strong>.
             </p>
             <p className="about-me">Get in touch with me at <strong>benhankin@ucla.edu</strong></p>
             <Socials />
@@ -26,7 +25,7 @@ function Blurb() {
             <p className="about-me"> embed escape velocity? </p>
             <hr />
         </div>
-        <button type="button"><a href="#resume"><strong>Resume</strong></a></button>
+        <button type="button"><a target="_blank" href="https://drive.google.com/file/d/1Hjft5zhxkVyoBceQCvJoP-CUem5HVdB-/view?usp=sharing"><strong>Resume</strong></a></button>
         </div>
     )
 }

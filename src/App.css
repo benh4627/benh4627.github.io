@@ -8,8 +8,9 @@
   grid-template-columns: 25% 3% auto;*/
   display: grid;
   grid-template-rows: 100px auto;
-  grid-template-columns: 20% 60% 20%;
+  grid-template-columns: 15% 70% 15%;
 }
+
 
 @media screen and (max-width: 640px) {
   .App {

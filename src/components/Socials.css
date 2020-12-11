@@ -9,6 +9,7 @@
     width: 30px;
     padding: 10px;
     margin: auto;
+    transition: padding .2s;
 }
 
 button {
@@ -19,9 +20,9 @@ button {
     border-radius: 8px;
     padding: 8px 20px;
     background: none;
-    transition: background-color .1s;
+    transition: font-size .2s;
 }
 
 button:hover {
-    box-shadow: 0.5px 0.5px 4px grey;
+    font-size:15px;
 }

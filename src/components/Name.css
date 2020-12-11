@@ -1,0 +1,17 @@
+.name {
+    letter-spacing:3px;
+    margin: 0;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    text-transform: uppercase;
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
+    grid-row-start: 2;
+    grid-column-start: 2;
+    align-items: center;
+    font-size:14px;
+    justify-items: center;
+    text-align: center;
+    width: 100%;
+}

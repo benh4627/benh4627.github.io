@@ -2,26 +2,13 @@
     text-transform: uppercase;
     color:black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
-    grid-row-start: 2;
+    grid-row-start: 3;
     grid-column-start: 2;
     align-items: center;
     justify-items: center;
     text-align: center;
     padding-top: 10px;
     width: 100%;
-}
-
-h1 {
-    font-size: 35px;
-    letter-spacing:3px;
-    padding: 5px 0px 10px 0px;
-    margin: 0;
-}
-
-.sticky {
-    position: sticky;
-    top: 0px;
-    background-color: white;
 }
 
 hr {
