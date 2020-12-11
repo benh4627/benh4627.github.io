@@ -14,7 +14,7 @@ function Work() {
                 projectName='Dev Team Intern'
                 specs='ACM @ UCLA | Nov. 2020 - present'
                 technologies='React, HTML/CSS, JavaScript'
-                moreInfo='blah blah blah: the sequel'
+                moreInfo='blah blah blah: the sequelblah blah blah: the sequelblah blah blah: the sequelblah blah blah: the sequelblah blah blah: the sequel'
                 className='old-work'
             />
             <ProjectPreview

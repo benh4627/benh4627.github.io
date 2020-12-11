@@ -14,9 +14,10 @@ function Blurb() {
             <p className="about-me">
                 Hi there, I am a <strong>software engineer</strong> currently in <strong>Los Angeles, CA</strong>.
             </p>
-            <p className="about-me"> This webpage is under construction. </p>
+            <p className="about-me">Get in touch with me at <strong>benhankin@ucla.edu</strong></p>
             <Socials />
             <hr />
+            <div className="todo">
             <p className="about-me"> <i>To do </i></p>
             <p className="about-me"> add social media icons/links </p>
             <p className="about-me"> add info of previous work and projects + short bio </p>
@@ -24,6 +25,8 @@ function Blurb() {
             <p className="about-me"> dark theme </p>
             <p className="about-me"> embed escape velocity? </p>
             <hr />
+        </div>
+        <button type="button"><a href="#resume"><strong>Resume</strong></a></button>
         </div>
     )
 }

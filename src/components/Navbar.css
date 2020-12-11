@@ -64,23 +64,6 @@ li a:hover {
     border-radius: 10px;
 }
 
-button {
-    float:right;
-    font-size:14px;
-    margin: 0px 15px;
-    text-transform: uppercase;
-    border: 2.5px solid black;
-    border-radius: 5px;
-    padding: 12px 20px;
-    background: none;
-    transition: background-color .1s;
-}
-
-button:hover {
-    background-color:rgb(253, 255, 243);
-    box-shadow: 0.5px 0.5px 4px grey;
-}
-
 .menu {
     display: flex;
     flex-direction: row;
