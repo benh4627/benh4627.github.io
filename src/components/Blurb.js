@@ -15,7 +15,6 @@ function Blurb() {
             </p>
             <p className="about-me">Get in touch with me at <strong>benhankin@ucla.edu</strong></p>
             <Socials />
-            <hr />
             <div className="todo">
             <p className="about-me"> <i>To do </i></p>
             <p className="about-me"> add social media icons/links </p>
@@ -23,8 +22,8 @@ function Blurb() {
             <p className="about-me"> circuitry thing: fade animations, absolute positioning </p>
             <p className="about-me"> dark theme </p>
             <p className="about-me"> embed escape velocity? </p>
-            <hr />
         </div>
+
         <button type="button"><a target="_blank" href="https://drive.google.com/file/d/1Hjft5zhxkVyoBceQCvJoP-CUem5HVdB-/view?usp=sharing"><strong>Resume</strong></a></button>
         </div>
     )

@@ -11,9 +11,9 @@
     width: 100%;
 }
 
-hr {
-    width:25%;
+.blurb hr {
     margin: auto;
+    margin-top: 40px;
 }
 
 h2 {
