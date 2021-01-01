@@ -11,7 +11,7 @@ function Blurb() {
             {/*<<h2>Software Engineer</h2>*/}
             <img className="photo" src={me2} />
             <p className="about-me">
-                Hi there, I am a student studying <strong>Computer Science</strong> at the <strong>University of California, Los Angeles</strong>.
+                Hi there, I am a student studying <strong>Computer Science</strong> at the <strong>University of California, Los Angeles</strong>
             </p>
             <p className="about-me">Get in touch with me at <strong>benhankin@ucla.edu</strong></p>
             <Socials />
