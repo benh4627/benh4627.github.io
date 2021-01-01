@@ -15,7 +15,7 @@ function ProjectDisplay() {
         projectName='Escape Velocity'
         specs='Mobile game | Feb. 2020'
         technologies='C#, Unity 3D, Unity API'
-        moreInfo='blah blah blah'
+        moreInfo='More info to be added'
         className='t1'
       />
       <ProjectPreview
@@ -23,7 +23,7 @@ function ProjectDisplay() {
         projectName='Dev Team Intern'
         specs='ACM @ UCLA | Nov. 2020 - present'
         technologies='React, HTML/CSS, JavaScript'
-        moreInfo='blah blah blah: the sequel'
+        moreInfo='More info to be added'
         className='t2'
       />
       <ProjectPreview
@@ -31,7 +31,7 @@ function ProjectDisplay() {
         projectName='Software Engineering Intern'
         specs='Daily Bruin | Oct. 2020 - present'
         technologies='React, HTML/CSS, Javascript, Git'
-        moreInfo='blah blah blah epilogue'
+        moreInfo='More info to be added'
         className='t3'
       />{/*
       <ProjectPreview
