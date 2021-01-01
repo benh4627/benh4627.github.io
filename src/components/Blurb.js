@@ -3,13 +3,13 @@ import './Blurb.css';
 
 import Socials from './Socials';
 
-import me from '../images/me.jpg';
+import me2 from '../images/me2.png';
 
 function Blurb() {
     return(
         <div className="Blurb" >
             {/*<<h2>Software Engineer</h2>*/}
-            <img className="photo" src={me} />
+            <img className="photo" src={me2} />
             <p className="about-me">
                 Hi there, I am a student studying <strong>Computer Science</strong> at the <strong>University of California, Los Angeles</strong>.
             </p>
