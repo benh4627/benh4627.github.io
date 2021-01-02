@@ -8,8 +8,7 @@
 }
 
 .project-preview:hover {
-    background-color: none;
-    transition: background-color .4s;
+    transition: .3s;
     background-color: rgb(220, 220, 220);
 }
 .project-name {
