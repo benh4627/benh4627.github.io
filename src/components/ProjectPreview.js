@@ -4,7 +4,7 @@ import './ProjectPreview.css';
 function ProjectPreview(props) {
     return <div className='project-preview'>
                 <div className='basic-info'>
-                    <img src={props.image} alt='project logo'/>
+                    <img src={props.image} className='project-image' alt='project logo'/>
                     <div className='project-name'><strong>{props.projectName}</strong></div>
                     <div className='specs'>{props.specs}</div>
                     <div className='specs'><i>{props.technologies}</i></div>
