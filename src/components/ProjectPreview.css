@@ -6,9 +6,20 @@
     border-radius: 0px 0px 8px 8px;
     background-color: rgb(204, 204, 204);
 }
+
+.project-preview:hover {
+    background-color: none;
+    transition: background-color .4s;
+    background-color: rgb(220, 220, 220);
+}
 .project-name {
     padding: 2px;
     font-size:17px;
+}
+
+.project-preview > a {
+    color: black;
+    text-decoration: none;
 }
 
 .specs {
@@ -20,6 +31,7 @@
 .basic-info {
     width: 100%;
     transition: width 2s ease-in 4s;
+    padding: 0px 0px 8px 0px;
 }
 
 
@@ -50,7 +62,7 @@
     display: block;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 640px) {
     .project-preview {
         width: 100%;
     }

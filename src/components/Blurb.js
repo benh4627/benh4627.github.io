@@ -7,7 +7,7 @@ import me2 from '../images/me2.png';
 
 function Blurb() {
     return(
-        <div className="Blurb" >
+        <div className="Blurb" id="ABOUT">
             {/*<<h2>Software Engineer</h2>*/}
             <img className="photo" src={me2} />
             <p className="about-me">

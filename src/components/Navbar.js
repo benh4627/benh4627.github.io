@@ -8,19 +8,15 @@ import BH from '../images/BH.png';
 
 function Navbar(props) {
     let menu =  <ul className="menu-animation menu"><strong>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#work">Work</a></li>
-                    <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#ABOUT">About</a></li>
+                    <li><a href="#PORTFOLIO">Portfolio</a></li>
                 </strong></ul>
     let menuvert
     const [showMenu, setShowMenu] = useState(false);
     if (showMenu) {
         menuvert = <ul className="menu-vert"><strong>
-        <li><a href="#about">About</a></li>
-        <li><a href="#work">Work</a></li>
-        <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="#ABOUT">About</a></li>
+        <li><a href="#PORTFOLIO">Portfolio</a></li>
     </strong></ul>
     }
 
