@@ -23,8 +23,6 @@ function Blurb() {
             <p className="about-me"> dark theme </p>
             <p className="about-me"> embed escape velocity? </p>
         </div>
-
-        <a target="_blank" href="https://drive.google.com/file/d/1XxnXSASXa5c1jnlyiwHAmb1KtZIDDlvs/view?usp=sharing"><button type="button"><strong>Resume</strong></button></a>
         </div>
     )
 }
