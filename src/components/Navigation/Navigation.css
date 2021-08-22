@@ -1,0 +1,103 @@
+.Navigation {
+    padding: 0px;
+    text-transform: uppercase;
+    transition: all .7s ease-in;
+    position: fixed;
+    top: 0;
+    left: 0;
+    /*background: white;*/
+    font-size: 16px;
+    width: 100%;
+    z-index: 1;
+}
+
+.normal {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px .2px 2px rgb(199, 199, 199);
+}
+
+.title {
+    text-transform: uppercase;
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
+    font-size: 35px;
+    letter-spacing:3px;
+    text-align: center;
+}
+
+.logo {
+    width:55px;
+    padding: 10px 0px 5px 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    margin-right: 15px;
+    padding: 5px;
+    float:right;
+}
+
+li {
+    float:left;
+    display: inline;
+    font-size:12px;
+}
+
+li a {
+    display:block;
+    color: black;
+    padding: 7px 7px;
+    margin: 0px 4px;
+    text-decoration: none;
+    background-color: none;
+    transition: background-color .25s;
+    border-radius: 13px;
+}
+
+li a:hover {
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+}
+
+.burg {
+    padding: 10px;
+    font-size: 18px;
+    display: none;
+}
+
+@media screen and (min-width: 1000px) {
+    .menu-vert {
+        display: none;
+    }
+}
+@media screen and (max-width: 1000px) {
+    li {
+        float: none;
+        padding: 0px;
+        text-align: center;
+    }
+    ul {
+        width: 100%;
+        padding: 0px;
+        margin: 0;
+    }
+    .burg {
+        display: block;
+    }
+    .menu {
+        display: none;
+    }
+    .menu-vert {
+        background: white;
+    }
+}

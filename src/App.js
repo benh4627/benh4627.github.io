@@ -1,9 +1,13 @@
 import './App.css';
 
+import Profile from './components/Profile/Profile.js';
+import Navigation from './components/Navigation/Navigation.js';
+
 function App() {
   return (
     <div className="App">
-      <h1>Just a test</h1>
+      <Navigation />
+      <Profile />
     </div>
   );
 }
