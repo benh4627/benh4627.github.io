@@ -40,3 +40,12 @@ body {
     transform: rotate(360deg);
   }
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: #1DB954;
+}

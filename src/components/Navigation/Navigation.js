@@ -5,15 +5,17 @@ import BH from './BH.png';
 
 function Navigation(props) {
     let menu =  <ul className="menu-animation menu"><strong>
-                    <li><a href="#ABOUT">About</a></li>
-                    <li><a href="#PORTFOLIO">Portfolio</a></li>
+    <li><a className="github" href="https://github.com/benh4627">GITHUB</a></li>
+    <li><a className="linkedin" href="https://www.linkedin.com/in/benhankin/">LINKEDIN</a></li>
+    <li><a className="spotify" href="https://open.spotify.com/user/0zijsn5i6r0vr9axmxt94xjej">SPOTIFY</a></li>
                 </strong></ul>
     let menuvert
     const [showMenu, setShowMenu] = useState(false);
     if (showMenu) {
         menuvert = <ul className="menu-vert"><strong>
-        <li><a href="#ABOUT">About</a></li>
-        <li><a href="#PORTFOLIO">Portfolio</a></li>
+        <li><a className="github" href="https://github.com/benh4627">GITHUB</a></li>
+        <li><a className="linkedin" href="https://www.linkedin.com/in/benhankin/">LINKEDIN</a></li>
+        <li><a className="spotify" href="https://open.spotify.com/user/0zijsn5i6r0vr9axmxt94xjej">SPOTIFY</a></li>
     </strong></ul>
     }
 
