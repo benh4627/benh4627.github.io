@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.16992292.chunk.css",
-    "main.js": "/static/js/main.a196f3c9.chunk.js",
-    "main.js.map": "/static/js/main.a196f3c9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a26626cc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a26626cc.js.map",
-    "static/js/2.5297ab93.chunk.js": "/static/js/2.5297ab93.chunk.js",
-    "static/js/2.5297ab93.chunk.js.map": "/static/js/2.5297ab93.chunk.js.map",
-    "static/js/3.3d73d1a4.chunk.js": "/static/js/3.3d73d1a4.chunk.js",
-    "static/js/3.3d73d1a4.chunk.js.map": "/static/js/3.3d73d1a4.chunk.js.map",
+    "main.css": "/static/css/main.7d203dd6.chunk.css",
+    "main.js": "/static/js/main.bcb01fd7.chunk.js",
+    "main.js.map": "/static/js/main.bcb01fd7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.39a2c163.js",
+    "runtime-main.js.map": "/static/js/runtime-main.39a2c163.js.map",
+    "static/js/2.6c9572c3.chunk.js": "/static/js/2.6c9572c3.chunk.js",
+    "static/js/2.6c9572c3.chunk.js.map": "/static/js/2.6c9572c3.chunk.js.map",
+    "static/js/3.fc162392.chunk.js": "/static/js/3.fc162392.chunk.js",
+    "static/js/3.fc162392.chunk.js.map": "/static/js/3.fc162392.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.16992292.chunk.css.map": "/static/css/main.16992292.chunk.css.map",
-    "static/js/2.5297ab93.chunk.js.LICENSE.txt": "/static/js/2.5297ab93.chunk.js.LICENSE.txt",
-    "static/media/rainer.f4e3d677.jpg": "/static/media/rainer.f4e3d677.jpg"
+    "static/css/main.7d203dd6.chunk.css.map": "/static/css/main.7d203dd6.chunk.css.map",
+    "static/js/2.6c9572c3.chunk.js.LICENSE.txt": "/static/js/2.6c9572c3.chunk.js.LICENSE.txt",
+    "static/media/Spotifollow.9d215e1f.png": "/static/media/Spotifollow.9d215e1f.png",
+    "static/media/escapeVelocity.260d51cf.png": "/static/media/escapeVelocity.260d51cf.png",
+    "static/media/rainer.f4e3d677.jpg": "/static/media/rainer.f4e3d677.jpg",
+    "static/media/titanicPanic.16c608ea.png": "/static/media/titanicPanic.16c608ea.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a26626cc.js",
-    "static/js/2.5297ab93.chunk.js",
-    "static/css/main.16992292.chunk.css",
-    "static/js/main.a196f3c9.chunk.js"
+    "static/js/runtime-main.39a2c163.js",
+    "static/js/2.6c9572c3.chunk.js",
+    "static/css/main.7d203dd6.chunk.css",
+    "static/js/main.bcb01fd7.chunk.js"
   ]
 }
