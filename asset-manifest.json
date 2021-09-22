@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.cfa411b1.chunk.css",
+    "main.css": "/static/css/main.2f3082b3.chunk.css",
     "main.js": "/static/js/main.2782a511.chunk.js",
     "main.js.map": "/static/js/main.2782a511.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.39a2c163.js",
@@ -10,7 +10,7 @@
     "static/js/3.fc162392.chunk.js": "/static/js/3.fc162392.chunk.js",
     "static/js/3.fc162392.chunk.js.map": "/static/js/3.fc162392.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.cfa411b1.chunk.css.map": "/static/css/main.cfa411b1.chunk.css.map",
+    "static/css/main.2f3082b3.chunk.css.map": "/static/css/main.2f3082b3.chunk.css.map",
     "static/js/2.6c9572c3.chunk.js.LICENSE.txt": "/static/js/2.6c9572c3.chunk.js.LICENSE.txt",
     "static/media/AWS.fd0cc018.jpg": "/static/media/AWS.fd0cc018.jpg",
     "static/media/Spotifollow.9d215e1f.png": "/static/media/Spotifollow.9d215e1f.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.39a2c163.js",
     "static/js/2.6c9572c3.chunk.js",
-    "static/css/main.cfa411b1.chunk.css",
+    "static/css/main.2f3082b3.chunk.css",
     "static/js/main.2782a511.chunk.js"
   ]
 }
