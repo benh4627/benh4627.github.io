@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.49616282.chunk.css",
-    "main.js": "/static/js/main.4655905c.chunk.js",
-    "main.js.map": "/static/js/main.4655905c.chunk.js.map",
+    "main.css": "/static/css/main.cfdfb4a9.chunk.css",
+    "main.js": "/static/js/main.dd64d8e6.chunk.js",
+    "main.js.map": "/static/js/main.dd64d8e6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.39a2c163.js",
     "runtime-main.js.map": "/static/js/runtime-main.39a2c163.js.map",
     "static/js/2.6c9572c3.chunk.js": "/static/js/2.6c9572c3.chunk.js",
@@ -10,20 +10,26 @@
     "static/js/3.fc162392.chunk.js": "/static/js/3.fc162392.chunk.js",
     "static/js/3.fc162392.chunk.js.map": "/static/js/3.fc162392.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.49616282.chunk.css.map": "/static/css/main.49616282.chunk.css.map",
+    "static/css/main.cfdfb4a9.chunk.css.map": "/static/css/main.cfdfb4a9.chunk.css.map",
     "static/js/2.6c9572c3.chunk.js.LICENSE.txt": "/static/js/2.6c9572c3.chunk.js.LICENSE.txt",
     "static/media/AWS.fd0cc018.jpg": "/static/media/AWS.fd0cc018.jpg",
     "static/media/Spotifollow.9d215e1f.png": "/static/media/Spotifollow.9d215e1f.png",
     "static/media/Ucla.9740997b.png": "/static/media/Ucla.9740997b.png",
+    "static/media/auxman.3c29884e.png": "/static/media/auxman.3c29884e.png",
     "static/media/escapeVelocity.260d51cf.png": "/static/media/escapeVelocity.260d51cf.png",
+    "static/media/github.036632f1.png": "/static/media/github.036632f1.png",
+    "static/media/instagram.daf2bdbf.png": "/static/media/instagram.daf2bdbf.png",
+    "static/media/prime.096786c1.png": "/static/media/prime.096786c1.png",
     "static/media/rainer.f4e3d677.jpg": "/static/media/rainer.f4e3d677.jpg",
     "static/media/Profile2.css": "/static/media/rainier2.7e09563e.jpg",
-    "static/media/snowlake.9970982b.jpg": "/static/media/snowlake.9970982b.jpg"
+    "static/media/rocks.ff43c508.png": "/static/media/rocks.ff43c508.png",
+    "static/media/snowlake.9970982b.jpg": "/static/media/snowlake.9970982b.jpg",
+    "static/media/spotify.0f2b9bab.png": "/static/media/spotify.0f2b9bab.png"
   },
   "entrypoints": [
     "static/js/runtime-main.39a2c163.js",
     "static/js/2.6c9572c3.chunk.js",
-    "static/css/main.49616282.chunk.css",
-    "static/js/main.4655905c.chunk.js"
+    "static/css/main.cfdfb4a9.chunk.css",
+    "static/js/main.dd64d8e6.chunk.js"
   ]
 }
