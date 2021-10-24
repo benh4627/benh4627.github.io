@@ -45,6 +45,7 @@
     .ProjectTrack {
         margin-right: none;
         padding: 5px;
+        width: 500px;
     }
 
     .ProjectTrack p {
