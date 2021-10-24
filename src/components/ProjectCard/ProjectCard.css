@@ -1,0 +1,63 @@
+.project-card {
+    font-family: 'Segoe UI', sans-serif;
+    width: 335px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 0px 0px 8px 8px;
+    background-color: rgb(204, 204, 204);
+    float: left;
+}
+
+.project-card:hover {
+    transition: .3s;
+    background-color: rgb(35, 35, 35);
+}
+.project-name {
+    padding: 2px;
+    font-size:17px;
+}
+
+.project-preview > a {
+    color: black;
+    text-decoration: none;
+}
+
+.specs {
+    padding: 0px 3px 3px 3px;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 13px;
+}
+
+.basic-info {
+    width: 100%;
+    transition: width 2s ease-in 4s;
+    padding: 0px 0px 8px 0px;
+}
+
+
+.basic-info  img {
+    width: 100%;
+}
+
+.read-more {
+    display: inline;
+    font-size:30px;
+    padding: 0px 15px;
+    float:right;
+}
+
+.more-info {
+    display: none;
+    text-align: left;
+    padding: 8px;
+}
+
+.basic-info:hover + .more-info {
+    display: block;
+}
+
+@media screen and (max-width: 640px) {
+    .project-card {
+        width: 100%;
+    }
+}
