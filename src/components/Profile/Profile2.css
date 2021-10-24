@@ -1,0 +1,71 @@
+.Profile2 {
+    padding: 100px 0px 18px 250px;
+    width: auto;
+    background-image: url("rainier2.jpg");
+    background-size: cover;
+}
+
+.Profile3 {
+    padding: 20px 0px 18px 250px;
+    width: auto;
+    color: rgb(240, 240, 240);
+}
+
+.Profile2 h4 {
+    font-size: 80px;
+    color: rgb(240, 240, 240);
+    line-height: 2em;
+    margin-top: -35px;
+    margin-bottom: -15px;
+    position: relative;
+}
+
+
+
+.verified {
+    color: rgb(240, 240, 240);
+}
+
+.verified-img {
+    width: 18px;
+}
+
+.about-img {
+    width: 90%;
+    border-radius: 12px;
+    border: 1px solid black;
+    transition: width .2s;
+}
+
+.about-img:hover {
+    width: 91%;
+}
+
+
+@media screen and (max-width: 850px) {
+    .Profile2 {
+        padding: 50px 0px 0px 20px;
+    }
+    .Profile3 {
+        padding: 20px 0px 0px 20px;
+        width: 700px;
+    }
+    .Profile2 h4 {
+        font-size: 50px;
+    }
+    .about-img {
+        width: 450px;
+    }
+    .about-img:hover{
+        width: 455px;
+    }
+    .verified {
+        padding-bottom: 15px;
+    }
+    .listeners {
+        padding: 5px 0px 15px 5px;
+    }
+    .about {
+        display:none;
+    }
+}

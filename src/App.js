@@ -1,13 +1,15 @@
 import './App.css';
 
-import Profile from './components/Profile/Profile.js';
-import Navigation from './components/Navigation/Navigation.js';
+import Profile2 from './components/Profile/Profile2.js';
+import Navigation2 from './components/Navigation/Navigation2.js';
+
 
 function App() {
   return (
     <div className="App">
-      <Navigation />
-      <Profile />
+      <Navigation2 />
+      <Profile2 />
+
     </div>
   );
 }

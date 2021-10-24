@@ -1,0 +1,30 @@
+[33mcommit ed98af77e5efc02e5190a795ad3545644a38cf24[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: galaxiesstars <43359178+benh4627@users.noreply.github.com>
+Date:   Thu Sep 9 10:21:47 2021 -0700
+
+    Fixed mobile formatting
+
+[33mcommit 9976dca3568aea46a071a28be5d93d14f0489520[m
+Merge: b04ac0e 12b0478
+Author: benh4627 <43359178+benh4627@users.noreply.github.com>
+Date:   Sun Aug 22 12:03:04 2021 -0700
+
+    Merge branch 'master' of github.com:benh4627/benh4627.github.io into master
+
+[33mcommit b04ac0e0e0e9d3748a6e47a545629d8172505e15[m
+Author: benh4627 <43359178+benh4627@users.noreply.github.com>
+Date:   Sun Aug 22 11:49:37 2021 -0700
+
+    Added Profile and Navigation componetns
+
+[33mcommit 12b0478bcc3b5c6ab873d82097cc3153547bdc58[m
+Author: benh4627 <43359178+benh4627@users.noreply.github.com>
+Date:   Sun Aug 22 11:49:37 2021 -0700
+
+    Added Profile and Navigation componetns
+
+[33mcommit 4ac8916bebe3d410817b9c60f18f2553acb18451[m
+Author: benh4627 <43359178+benh4627@users.noreply.github.com>
+Date:   Sun Aug 22 11:41:16 2021 -0700
+
+    Deploy React app to Github Pages
