@@ -4,6 +4,7 @@ import './Profile2.css';
 import me from './rainer.jpg';
 import check from './check.png';
 import snowlake from './snowlake.jpg';
+import octopus from './octopus.jpg';
 
 import ProjectTrack from '../ProjectTrack/ProjectTrack';
 
@@ -73,7 +74,10 @@ function Profile() {
                 />
                 <div className="about">
                 <h2>About</h2>
-                <img className="about-img" src={snowlake} /></div>
+                <div className="img-text">
+                <img className="about-img" src={octopus} />
+                </div>
+                </div>
                 <ProjectTrack 
                     num='6'
                     name="Los Angeles Pierce College"
