@@ -4,6 +4,7 @@ import './Profile2.css';
 import me from './rainer.jpg';
 import check from './check.png';
 import snowlake from './snowlake.jpg';
+import octopus from './octopus.jpg';
 
 import ProjectTrack from '../ProjectTrack/ProjectTrack';
 
@@ -31,6 +32,7 @@ function Profile() {
             </div>
             <div className="Profile3">
                 <h2>Popular</h2>
+                <div className="green-test">
                 <ProjectTrack 
                     num='1'
                     name="UCLA"
@@ -38,7 +40,7 @@ function Profile() {
                     desc='Computer Science major and Music Industry minor'
                     link="https://benh4627.github.io"
                     linkdesc="Est. June 2023"
-                />
+                /></div>
                 <ProjectTrack 
                     num='2'
                     name="Amazon"
@@ -73,7 +75,10 @@ function Profile() {
                 />
                 <div className="about">
                 <h2>About</h2>
-                <img className="about-img" src={snowlake} /></div>
+                <div className="img-text">
+                <img className="about-img" src={octopus} />
+                </div>
+                </div>
                 <ProjectTrack 
                     num='6'
                     name="Los Angeles Pierce College"
