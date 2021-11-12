@@ -119,6 +119,10 @@ function Profile() {
                     link="https://github.com/benh4627/transferify"
                     linkdesc="View on Github"
                 />
+                <br />
+                <br />
+                <br />
+                <br />
             </div>
         </div>
     )

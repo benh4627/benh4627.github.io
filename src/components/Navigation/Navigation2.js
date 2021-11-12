@@ -33,6 +33,7 @@ function Navigation(props) {
                 <li><img src={spotify}/><a className="spotifynav" href="https://open.spotify.com/user/0zijsn5i6r0vr9axmxt94xjej">SPOTIFY</a></li>
                 <li><img src={insta}/><a className="spotifynav" href="https://www.instagram.com/ben.eitan/">INSTAGRAM</a></li>
                 </strong></ul>
+                <hr />
         </div>
     )
 }
