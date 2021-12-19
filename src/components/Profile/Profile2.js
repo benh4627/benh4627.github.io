@@ -4,7 +4,7 @@ import './Profile2.css';
 import me from './rainer.jpg';
 import check from './check.png';
 import snowlake from './snowlake.jpg';
-import octopus from './octopus.jpg';
+import ben from './ben.png';
 
 import ProjectTrack from '../ProjectTrack/ProjectTrack';
 
@@ -76,7 +76,7 @@ function Profile() {
                 <div className="about">
                 <h2>About</h2>
                 <div className="img-text">
-                <img className="about-img" src={octopus} />
+                <img className="about-img" src={ben} />
                 </div>
                 </div>
                 <ProjectTrack 
@@ -119,10 +119,6 @@ function Profile() {
                     link="https://github.com/benh4627/transferify"
                     linkdesc="View on Github"
                 />
-                <br />
-                <br />
-                <br />
-                <br />
             </div>
         </div>
     )

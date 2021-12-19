@@ -8,7 +8,6 @@ import Player from './components/Player/Player.js';
 function App() {
   return (
     <div className="App">
-      <Player />
       <Navigation2 />
       <Profile2 />
     </div>
