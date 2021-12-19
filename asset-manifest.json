@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.2df6bb5d.chunk.css",
-    "main.js": "/static/js/main.e78315ce.chunk.js",
-    "main.js.map": "/static/js/main.e78315ce.chunk.js.map",
+    "main.js": "/static/js/main.b0d9f27c.chunk.js",
+    "main.js.map": "/static/js/main.b0d9f27c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.81b7a417.js",
     "runtime-main.js.map": "/static/js/runtime-main.81b7a417.js.map",
     "static/js/2.6c9572c3.chunk.js": "/static/js/2.6c9572c3.chunk.js",
@@ -15,10 +15,10 @@
     "static/media/AWS.fd0cc018.jpg": "/static/media/AWS.fd0cc018.jpg",
     "static/media/Spotifollow.9d215e1f.png": "/static/media/Spotifollow.9d215e1f.png",
     "static/media/Ucla.9740997b.png": "/static/media/Ucla.9740997b.png",
+    "static/media/ben.259948e2.png": "/static/media/ben.259948e2.png",
     "static/media/escapeVelocity.260d51cf.png": "/static/media/escapeVelocity.260d51cf.png",
     "static/media/github.036632f1.png": "/static/media/github.036632f1.png",
     "static/media/instagram.daf2bdbf.png": "/static/media/instagram.daf2bdbf.png",
-    "static/media/octopus.10341e15.jpg": "/static/media/octopus.10341e15.jpg",
     "static/media/prime.096786c1.png": "/static/media/prime.096786c1.png",
     "static/media/rainer.f4e3d677.jpg": "/static/media/rainer.f4e3d677.jpg",
     "static/media/Profile2.css": "/static/media/rainier2.7e09563e.jpg",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.81b7a417.js",
     "static/js/2.6c9572c3.chunk.js",
     "static/css/main.2df6bb5d.chunk.css",
-    "static/js/main.e78315ce.chunk.js"
+    "static/js/main.b0d9f27c.chunk.js"
   ]
 }
