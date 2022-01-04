@@ -30,7 +30,7 @@ function Navigation(props) {
             <ul className="spotify-menu"><strong>
                 <li><img src={git}/><a className="github" href="https://github.com/benh4627">GITHUB</a></li>
                 <li><img src={linkin}/><a className="linkedin" href="https://www.linkedin.com/in/benhankin/">LINKEDIN</a></li>
-                <li><img src={spotify}/><a className="spotifynav" href="https://open.spotify.com/user/0zijsn5i6r0vr9axmxt94xjej">SPOTIFY</a></li>
+                <li><img src={spotify}/><a className="spotifynav" href="https://open.spotify.com/artist/09OgWGP8fczvrYjQX3i33p?si=eNIZ0lW8RJSojZw6EhYHnA">SPOTIFY</a></li>
                 <li><img src={insta}/><a className="spotifynav" href="https://www.instagram.com/ben.eitan/">INSTAGRAM</a></li>
                 </strong></ul>
                 <hr />
