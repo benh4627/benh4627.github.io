@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.2df6bb5d.chunk.css",
-    "main.js": "/static/js/main.482b3924.chunk.js",
-    "main.js.map": "/static/js/main.482b3924.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.81b7a417.js",
-    "runtime-main.js.map": "/static/js/runtime-main.81b7a417.js.map",
-    "static/js/2.6c9572c3.chunk.js": "/static/js/2.6c9572c3.chunk.js",
-    "static/js/2.6c9572c3.chunk.js.map": "/static/js/2.6c9572c3.chunk.js.map",
-    "static/js/3.db632ee1.chunk.js": "/static/js/3.db632ee1.chunk.js",
-    "static/js/3.db632ee1.chunk.js.map": "/static/js/3.db632ee1.chunk.js.map",
+    "main.css": "/static/css/main.91516149.chunk.css",
+    "main.js": "/static/js/main.f828e39a.chunk.js",
+    "main.js.map": "/static/js/main.f828e39a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.002e8fd2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.002e8fd2.js.map",
+    "static/js/2.962db469.chunk.js": "/static/js/2.962db469.chunk.js",
+    "static/js/2.962db469.chunk.js.map": "/static/js/2.962db469.chunk.js.map",
+    "static/js/3.05f02407.chunk.js": "/static/js/3.05f02407.chunk.js",
+    "static/js/3.05f02407.chunk.js.map": "/static/js/3.05f02407.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.2df6bb5d.chunk.css.map": "/static/css/main.2df6bb5d.chunk.css.map",
-    "static/js/2.6c9572c3.chunk.js.LICENSE.txt": "/static/js/2.6c9572c3.chunk.js.LICENSE.txt",
+    "static/css/main.91516149.chunk.css.map": "/static/css/main.91516149.chunk.css.map",
+    "static/js/2.962db469.chunk.js.LICENSE.txt": "/static/js/2.962db469.chunk.js.LICENSE.txt",
     "static/media/AWS.fd0cc018.jpg": "/static/media/AWS.fd0cc018.jpg",
     "static/media/Spotifollow.9d215e1f.png": "/static/media/Spotifollow.9d215e1f.png",
     "static/media/Ucla.9740997b.png": "/static/media/Ucla.9740997b.png",
@@ -19,6 +19,7 @@
     "static/media/escapeVelocity.260d51cf.png": "/static/media/escapeVelocity.260d51cf.png",
     "static/media/github.036632f1.png": "/static/media/github.036632f1.png",
     "static/media/instagram.daf2bdbf.png": "/static/media/instagram.daf2bdbf.png",
+    "static/media/kingscanyon.04a1aec9.png": "/static/media/kingscanyon.04a1aec9.png",
     "static/media/prime.096786c1.png": "/static/media/prime.096786c1.png",
     "static/media/rainer.f4e3d677.jpg": "/static/media/rainer.f4e3d677.jpg",
     "static/media/Profile2.css": "/static/media/rainier2.7e09563e.jpg",
@@ -27,9 +28,9 @@
     "static/media/spotify.0f2b9bab.png": "/static/media/spotify.0f2b9bab.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.81b7a417.js",
-    "static/js/2.6c9572c3.chunk.js",
-    "static/css/main.2df6bb5d.chunk.css",
-    "static/js/main.482b3924.chunk.js"
+    "static/js/runtime-main.002e8fd2.js",
+    "static/js/2.962db469.chunk.js",
+    "static/css/main.91516149.chunk.css",
+    "static/js/main.f828e39a.chunk.js"
   ]
 }
