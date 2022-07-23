@@ -19,19 +19,25 @@ import zoomprime from './prime.png';
 import transfer from './tr.png';
 import titanic from './rocks.png';
 
+import kingscanyon from './kingscanyon.png';
+
 
 function Profile() {
     return(
         <div className="ProfileFinal">
             <div className="Profile2">
                 <div className="verified">
-                    <img className="verified-img" src={check}/> Verified Software Engineer
                 </div>
                 <h4>Ben Hankin</h4>
-                <div className="listeners">4,294,967,296 monthly listeners</div>
-            </div>
-            <div className="Profile3">
-                <h2>Popular</h2>
+                  </div>
+                   <div className="Profile3">
+                  Hey there, my name is <b>Ben Hankin</b> and I am a <b>software engineer</b>. <br/><br />To view my portfolio, check out my Github. If you'd like to get in contact with me, please message me through LinkedIn or send me an email at <b>benhankin@ucla.edu</b>. 
+                  In the meantime, here's a playlist of some songs I'm digging lately. And a picture of me at Kings Canyon National Park, which I am nostalgic for at the time of writing this.<br /><br />
+                  <iframe  src="https://open.spotify.com/embed/playlist/5YVvVZQoLv6Jz5G4a4L0OO?utm_source=generator&theme=0" width="28%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                  <img className="kg" src={kingscanyon} height="300" />
+                  
+                  {/*<h2>Popular</h2>
+                
                 <div className="green-test">
                 <ProjectTrack 
                     num='1'
@@ -119,7 +125,7 @@ function Profile() {
                     link="https://github.com/benh4627/transferify"
                     linkdesc="View on Github"
                 />
-            </div>
+   */} </div>
         </div>
     )
 }
