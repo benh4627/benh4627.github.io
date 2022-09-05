@@ -32,8 +32,7 @@ function Profile() {
                   </div>
                    <div className="Profile3">
                   Hey there, my name is <b>Ben Hankin</b> and I am a <b>software engineer</b>. <br/><br />To view my portfolio, check out my Github. If you'd like to get in contact with me, please message me through LinkedIn or send me an email at <b>benhankin@ucla.edu</b>. 
-                  In the meantime, here's a picture of me at Kings Canyon National Park, which I am nostalgic for at the time of writing this.<br /><br />
-                  <img className="kg" src={kingscanyon} height="300" />
+                
                   
                   {/*<h2>Popular</h2>
                 
